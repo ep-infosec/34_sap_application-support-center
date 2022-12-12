@@ -1,0 +1,10 @@
+.DS_Store
+npm-debug.log
+resources/app_icons
+resources/app_ipas
+test
+
+# editors
+.idea
+*.swp
+*.iml
